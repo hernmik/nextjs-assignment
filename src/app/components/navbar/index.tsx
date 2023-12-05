@@ -21,7 +21,7 @@ const Navbar = () => {
               </li>
               <li>
                 <Link href="/today/search">
-                  <p>Contacts</p>
+                  <p>Search</p>
                 </Link>
               </li>
             </ul>
