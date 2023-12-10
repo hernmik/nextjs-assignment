@@ -54,13 +54,13 @@ export default function BarChart() {
         },
         title: {
           display: true,
-          text: 'Tunnit',
+          text: 'Clock',
         },
       },
       y: {
         title: {
           display: true,
-          text: 'Hinta / sentit',
+          text: 'Prices',
         },
         beginAtZero: true,
       },
