@@ -3,7 +3,7 @@ import './globals.css';
 
 import Chart from './components/Chart';
 
-export default function Home() {
+export default function Today() {
     <h1>Electric Prices</h1>
 
 return(
